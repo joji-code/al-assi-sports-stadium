@@ -46,4 +46,4 @@ https://github.com/joji-code/al-assi-sports-stadium
 ---
 
 ## ✨ Author
-Built by a computer engineering student learning web development 🚀
+Jumana shiha 
